@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Filosofia Do Sucesso</string>
+    <string name="edit_message">Escreva aqui</string>
+    <string name="button_send">Gravar</string>
+    <string name="step_1">O primeiro passo…\n\nComece com um objetivo em mente...\n\n\nSe não tiver para onde ir, não chegará a lugar nenhum.\n\nDefinir claramente o que quer é o início de tudo.</string>
+    <string name="step_2">O segundo passo...\n\nVocê nunca teria pensando no seu desejo principal a menos que a fé estivesse palpitando em sua mente.\n\nEscreva aqui suas intenções...</string>
+    <string name="step_3">O terceiro passo...\n\nConhecimento Especializado\n\nEscreva aqui os cursos ou ações que precisa para aumentar seu conhecimento...</string>
+    <string name="step_4">O quarto passo...\n\nImaginação\n\nEscreva aqui todos os detalhes do seu objetivo...\n\n1 - Descreva um dia da sua vida ideal.\n\n2 - Inclua seu estado emocional geral e seja o mais descritivo possível.\n\n3 - Inclua todos os detalhes daquilo que você está fazendo, e não apenas generalizações vagas a partir das quais você não pode criar imagens. </string>
+    <string name="step_5">O quinto passo...\n\nPlanejamento Organizado\n\nOrganize um plano para realizar seu objetivo em tempo hábil.\n\nQuando? Onde? Quem? E como?</string>
+    <string name="step_6">O sexto passo...\n\nDecisão\n\nFortaleça a sua personalidade e a sua coragem moral</string>
+    <string name="step_7">O sétimo passo...\n\nPersistência\n\n</string>
+    <string name="step_8">O oitavo passo...\n\nO Poder das mentes aliadas</string>
+    <string name="step_9">O nono passo...\n\nParceria Intramuros</string>
+    <string name="step_10">O décimo passo...\n\nA mente subconsciente</string>
+    <string name="step_11">O décimo primeiro passo...\n\nO Cérebro</string>
+    <string name="step_12">O décimo segundo passo...\n\nO sexto sentido</string>
+</resources>
